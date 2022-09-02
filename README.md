@@ -1,6 +1,6 @@
 # Analysis for 
 # _Estimation of biodiversity with short-range multispectral imaging in a temperate calcareous grassland_
-#### Jackson, J., Le Coeur, C. and Jones, O.R
+#### Jackson, J, Lawson, C. S., Adelmant, C., Huhtala, E., Fernandes, P., Hodgson, R., King, H., Williamson, L., Maseyk, K., Hawes, N., Hector, A., & Salguero-Gómez, R
 
 #### 2022-09-02
 #### Repository created by John Jackson
