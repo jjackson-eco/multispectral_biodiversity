@@ -7,6 +7,8 @@
 
 ---
 
+[![DOI](https://zenodo.org/badge/531925353.svg)](https://zenodo.org/badge/latestdoi/531925353)
+
 Full analysis for our study on the link between spectral diversity and biodiversity in a calcareous grassland in Wytham Woods, Oxfordshire. Here we use multispectral image data from a commercially available UAV monitoring system at short range and fine spatial resolution. For the manuscript please see [the bioRxiv entry](https://www.biorxiv.org/content/10.1101/2022.03.08.483493v3). Package version info for this analysis is given below.
 
 Analysis scripts can be found in the `code/` sub-repository, manuscript figures and output in the `output/` sub-repository, and analysis data in the `data/` sub-repository. Raw cropped image data (which is unsuitable for storage online) is available on request from John Jackson.
