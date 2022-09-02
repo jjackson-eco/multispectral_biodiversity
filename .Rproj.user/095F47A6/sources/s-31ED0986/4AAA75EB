@@ -1,0 +1,26 @@
+{
+    "id": "4AAA75EB",
+    "path": "C:/Users/John/Dropbox/RainDrop/multispectral_biodiversity/multispectral_biodiversity/code/D_biodiversity_spectral_uncalibrated_models.R",
+    "project_path": "code/D_biodiversity_spectral_uncalibrated_models.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1662115608565.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,15",
+        "scrollLine": "19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662115901,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662115901455,
+    "read_only": false,
+    "read_only_alternatives": []
+}
